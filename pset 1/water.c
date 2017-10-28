@@ -1,3 +1,5 @@
+//asks for number of minutes in shower, returns how many water bottles of water used
+
 #include <stdio.h>
 #include <cs50.h>
 
