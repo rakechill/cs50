@@ -1,4 +1,4 @@
-//asks for height, returns a one-sided pyramid
+//asks for height, returns a one-sided pyramid of #'s
 
 #include <cs50.h>
 #include <stdio.h>
