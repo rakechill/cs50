@@ -1,3 +1,5 @@
+//asks for height, returns a one-sided pyramid
+
 #include <cs50.h>
 #include <stdio.h>
 
